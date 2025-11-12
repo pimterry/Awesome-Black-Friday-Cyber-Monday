@@ -70,6 +70,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  🌐 | [LocalCan](https://www.localcan.com/) | #1 Ngrok alternative. Without subscription. With .local domains and top-rated UX (Mac / Windows) | 10 x **BF40** 40% OFF and 100 x **BF20** 20% OFF |
 |  🛠️ | [SelfDevKit](https://selfdevkit.com) | 50+ essential developer tools in one desktop app. Built with Rust, works offline, privacy-focused. | 50% OFF with code **BLACKFRIDAY2025** |
 |  ☁️ | [DNSDeck](https://apps.apple.com/us/app/dnsdeck-manage-dns-zones/id6753925998?utm_source=BF-2025) | A powerful macOS DNS zone management client for CloudFlare and AWS Route 53. | ****50% OFF**** ($4.99) one-time purchase via the App Store |
+|  ⚡ | [HTTP Toolkit](https://httptoolkit.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Open-source HTTP debugger & client, with instant one-click setup for Docker, Android, node.js & more | 50% off forever on annual subscriptions, with code **BLACKFRIDAY25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -251,7 +252,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🟪 | [PostFlow](https://postflow.app?ref=tonybf)          | Social media scheduler and platform to manage ALL your social media content. One click, all platforms, hours saved. | **50% OFF** for 1st year, for monthly plan use **BF50MONTHLY** for annual plans use code **BF50YEARLY**          |
 | 🔄 | [PostSyncer](https://postsyncer.com) | AI-powered social media automation tool that helps you manage and sync your posts across multiple platforms. | 20% OFF for 12 months with code **TONYDEAL** |
-| 🔄 | [TypeSmart](https://typesm.art/?utm_source=tonybf) | Automatically share your X posts on LinkedIn and BlueSky. Also set custom repurposing rules for AI. | 42% OFF with code **BLACKFRIDAY** |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -271,7 +272,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | ⭐ | [Ultimate Web Scraper](https://ultimatewebscraper.com/) | The best no-code web scraper chrome extension. Grab text, images, emails & links from any website with a single click. | 20% OFF with code **BLACKFRIDAY20** |
 | 🧠 | [SyncRange](https://syncrange.com) |Connect your Ecommerce and Marketing data to Google Sheets, Looker Studio and BigQuery. Works with tools including Shopify, Meta Ads, TikTok, LinkedIn  Ads and more | 40% OFF any plan **BLACKFRIDAY2025** |
 | 🔍 | [FileMinutes](https://www.fileminutes.com) | A Better Way to Find Files on Your Mac | 50% OFF with code **BF2025** |
-| 📧 | [Ninbox](https://ninbox.io) | A simple way to move newsletters out of your personal inbox to a clean, organized space made just for them. | **BF2025** for 20% off |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
